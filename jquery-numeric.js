@@ -1,6 +1,6 @@
 /*!
  * Numeric.js Jquery extension v0.1.0
- * https://github.com/lcavadas/JavascriptUtils
+ * https://github.com/lcavadas/jquery-numeric
  *
  * Copyright 2012, Luís Serralheiro
  */
